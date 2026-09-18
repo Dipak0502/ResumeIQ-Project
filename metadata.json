@@ -1,0 +1,6 @@
+{
+  "name": "ResumeIQ – AI Resume Analyzer & ATS Optimizer",
+  "description": "AI-powered resume analysis platform that parses PDF/DOCX resumes, evaluates ATS compatibility, compares resumes against job descriptions, identifies keyword gaps, calculates job-match scores, and provides AI-driven recommendations to improve resume content and relevance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
